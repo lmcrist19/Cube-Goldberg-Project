@@ -18,7 +18,6 @@ This Arduino project controls various components of a Rube Goldberg machine, inc
   - [Components](#components)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#license)
 
 ## Components
 
@@ -48,7 +47,3 @@ This Arduino project controls various components of a Rube Goldberg machine, inc
    - The system interacts with these components to create a complex chain reaction.
 
 2. Modify the code and hardware setup to fit your specific Rube Goldberg machine design and requirements.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for personal and educational purposes. See the [LICENSE](LICENSE) file for more details.
